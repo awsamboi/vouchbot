@@ -1,0 +1,4 @@
+token: 'TOKEN'
+mongourl: 'MONGOURL'
+ownerid: 'ID'
+mainprefix: '-'
